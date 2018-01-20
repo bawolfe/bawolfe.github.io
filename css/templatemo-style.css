@@ -25,18 +25,21 @@ a:focus {
 .tm-left-right-container { width: 100%; }
 
 .tm-blue-bg {
-	background-color: #CEDE7C;
+	background-color: #A9CF56;
 	color: #464646;
 	font-weight:bold;
 }
 
 .tm-blue-text {	color: #5F6B77; font-weight:bold}
-.tm-blue-bg a {	color: #5F6B77; font-weight:bold}
+.tm-blue-bg a {	color: #464646; font-weight:bold}
 
 .tm-site-name {
 	font-size: 2rem;
 	margin-top: 20px;
 	font-weight:bold
+}
+.bullet {
+	padding: 5px;
 }
 
 .tm-logo-div { 
@@ -60,7 +63,7 @@ a:focus {
 p { line-height: 2; }
 
 .tm-button {
-	background-color: #CEDE7C;
+	background-color: #A9CF56;
 	border: none;
 	color: white;
 	cursor: pointer;
