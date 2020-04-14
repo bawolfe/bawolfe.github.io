@@ -1,0 +1,3 @@
+order allow,deny
+deny from bottraffic4free.host
+allow from all
